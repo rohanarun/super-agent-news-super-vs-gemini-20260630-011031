@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/)",
+    "[digitalapplied.com](https://www.digitalapplied.com/blog/gemini-3-5-flash-computer-use-agent-automation-2026)",
+    "[codersera.com](https://codersera.com/blog/gemini-3-5-complete-guide-2026/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[bwmarketingworld.com](https://bwmarketingworld.com/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/)"
+  ],
+  "design_plan": "rng=42; AIDA: hero=attention, Gemini facts=interest, cache advantage=desire, CTA=action; hero max-width\u22481120px ensures 2\u20133 lines; bento & compare grids use grid-auto-flow:dense; label sweep confirms Folk, Orchids, Siri, ChatGPT, Gemini, Grok mentioned; button contrast checked (ink/white).",
+  "generated_at": "2026-06-30T01:10:38.996762+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "Gemini is pushing hard into agentic automation with Gemini 3.5 Flash, including native computer use and aggressive token pricing. Super takes a different tack: it\u2019s built for people who want a personal AI agent that actually operates a computer and gets better over time by reusing a computer-use cache \u2014 making repeated workflows more durable and cost\u2011efficient. This page compares what Gemini is for, where it shines, and why Super is often the sharper alternative for ongoing computer-use work."
+}
